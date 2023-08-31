@@ -1,0 +1,26 @@
+{
+  "btn": "virus",
+  "preguntas": [
+    {
+      "texto": "wtfman",
+      "respuesta": "hola",
+      "codigo": "sis",
+      "videos": [
+        "22"
+      ],
+      "pasos": [
+        "fa",
+        "ss"
+      ]
+    },
+    {
+      "texto": "Que son las variables de texto lol, logre mi cometido ",
+      "respuesta": "estoy es lo mas simple y bonito que e podido crear ",
+      "codigo": "esto puede ser un gran salto",
+      "videos": [],
+      "pasos": [
+        "esto si tiene pasos"
+      ]
+    }
+  ]
+}
