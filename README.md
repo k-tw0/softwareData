@@ -18,7 +18,7 @@
       <img src="https://github.com/k-tw0/softwareData/blob/main/Screenshot%202024-04-07%20191222.png" alt="Captura de pantalla de la data de Vision digital">
     </td>
     <td>
-      El software pregunta cunatas cantidades de pasos, cuantos archivos con codigos, videos, etc...
+      btn debe configurarse para que area estara disponible desde preguntass es donde empieza a preguntar el software.
     </td>
   </tr>
 </table>
