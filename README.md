@@ -12,4 +12,4 @@
 
 <h2 align="center">Inicio de la app</h2>
 
-![]()
+![](https://github.com/k-tw0/softwareData/blob/main/Screenshot%202024-04-07%20191222.png)
