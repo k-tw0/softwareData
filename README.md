@@ -18,7 +18,7 @@
       <img src="https://github.com/k-tw0/softwareData/blob/main/Screenshot%202024-04-07%20191222.png" alt="Captura de pantalla de la data de Vision digital">
     </td>
     <td>
-      Aquí puedes colocar una descripción detallada de la data de Vision digital, si es necesario.
+      El software pregunta cunatas cantidades de pasos, cuantos pasos, videos, etc...
     </td>
   </tr>
 </table>
