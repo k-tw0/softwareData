@@ -10,6 +10,15 @@
     <strong>Nota:</strong> Este software es el inicio de poder crear un aprendizaje de cualquier tema conectándolo a cualquier tecnología actual como una inteligencia artificial o cualquiera que se te ocurra.
 </blockquote>
 
-<h2 align="center">Inicio de la app</h2>
+<h2 align="center">Comparativa: Al lado izquierdo está la data de Vision digital y al lado derecho está el Software creador de bases de datos</h2>
 
-![](https://github.com/k-tw0/softwareData/blob/main/Screenshot%202024-04-07%20191222.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/k-tw0/softwareData/blob/main/Screenshot%202024-04-07%20191222.png" alt="Captura de pantalla de la data de Vision digital">
+    </td>
+    <td>
+      Aquí puedes colocar una descripción detallada de la data de Vision digital, si es necesario.
+    </td>
+  </tr>
+</table>
