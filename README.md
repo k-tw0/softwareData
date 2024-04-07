@@ -18,7 +18,7 @@
       <img src="https://github.com/k-tw0/softwareData/blob/main/Screenshot%202024-04-07%20191222.png" alt="Captura de pantalla de la data de Vision digital">
     </td>
     <td>
-      btn debe configurarse para que area estara disponible desde preguntass es donde empieza a preguntar el software.
+      btn debe configurarse para el area disponible y desde el apartado preguntas es donde empieza a escribir el software.
     </td>
   </tr>
 </table>
